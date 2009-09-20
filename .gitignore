@@ -1,0 +1,5 @@
+/config/settings.yml
+/tmp
+/vendor/*
+*.swp
+.DS_Store
